@@ -1,0 +1,310 @@
+Food_ID,Name,C_Type,Veg_Non,Describe
+1,Spicy Green Papaya Salad,Thai,veg,"Som Tam is a flavorful, green papaya salad dish with a spicy twist. This salad is unlike other salads you may have tried before. Shredded papaya is blended with fish sauce, lime juice, red chillies, tamarind juice, roasted peanuts, and Vegetables. The Veg, chilli and tangy taste of the Som Tam salad makes it a hot favourite Thai dish."
+2,Thai Fried Noodles,Thai,veg,"ad Thai is one of the most iconic stir-fried Thai dish. A balanced mix of seafood, Veggies and sauces complete the exquisite taste of this cuisine. Roasted peanuts and herbs are then added on top. It is well-known for its distinctively Veg, sour, and salty Thai flavours. Moreover, Pad Thai will arouse your taste and inspire you to discover more about Thai cuisine."
+3,Hamburger,American,non-veg,"A sandwich made with a beef patty and various toppings such as lettuce, tomato, and cheese"
+4,Raw Papaya Salad,Thai,veg,"This Som Tum salad is as delicious as it is fiery. Toss shaved papaya into a mortar and pestle with carrots, tomatoes, red chillies, lemon juice and soy sauce for that zesty flavour. Garnish with crushed peanuts before serving."
+5,christmas cake,Dessert,veg,"christmas dry fruits (pre-soaked), orange zest, lemon zest, jaggery syrup, almond flour, apple, butter (softened), eggs"
+6,Veg potato pie,American,veg,"A pie made with Veg potatoes, sugar, and spices"
+7,chocolate nero cookies,Dessert,veg,"almonds, eggs, granulated sugar, bittersweet chocolate, unsalted butter, flour, baking powder, castor sugar, icing sugar"
+8,Chicken and Tofu Satay,Thai,non-veg,"Marinated in oriental flavours and grilled to perfection, serve this Thai appetiser with a tangy peanut sauce and bask in the glory of your party."
+9,Rocky's Pad Thai,Thai,non-veg,"Recreate the brilliance of Pad Thai wherever you are, all thanks to Rocky Singh. It's a delicious mix of flat rice noodles tossed with chicken, prawns, onions, bean sprouts, garlic, and tamarind."
+10,Thai Steamed Fish,Thai,non-veg,Fish fillets steamed in a range of assorted oriental flavours and drizzled with a Veg and sour sauce.
+11,Thai Fish Cakes with Pineapple Chutney,Thai,non-veg,"Coated with breadcrumbs and fried golden, these Thai Fish Cakes are the perfect way to woo your loved ones. Spruce it up with a Veg pineapple chutney to balance the flavours."
+12,Crispy meat hot dog,American,non-veg,"A sausage served in a bun with various condiments such as ketchup, mustard, and relish"
+13,Veg Manchurian,Chinese,veg,A fried Vegetable ball served in a spicy sauce.
+14,Veg Spring Rolls,Chinese,veg,A fried snack made with Vegetables and noodles wrapped in a thin dough.
+15,Aloo tikki,Indian,veg,Patties of potato mixed with some Vegetables fried
+16,Aloo matar,Indian,veg,Potatoes and peas in curry
+17,Fried chicken,American,non-veg,Chicken that has been battered and fried
+18,grilled almond barfi,Dessert,veg,"khoya, sweetener (optional), almonds (crushed)"
+19,Veg Pizza,American,veg,"A dish made with a dough base topped with tomato sauce, cheese, and various toppings such corn capsicum and fresh veggies"
+20,Mac and cheese,American,veg,A pasta dish made with macaroni and cheese sauce
+21,apple rabdi,Dessert,veg,"apples, milk, sugar, green cardamoms, almonds (blanched), pistachios (blanched)"
+22,Cornbread,American,veg,"A bread made with cornmeal, often served as a side dish"
+23,dates and nuts ladoo,Dessert,veg,"dates (pitted), mixed nuts (almonds, cashews, walnuts, pistachios, peanuts), dessicated coconut (optional)"
+24,green lentil dessert fudge,Dessert,veg,"whole moong beans, cow ghee, raisins, whole milk, jaggery (organic), ground cardamom, almonds (halved)"
+25,cashew nut cookies,Dessert,veg,"cashew paste, ghee, khaand (a sweetening agent and a healthier substitute of sugar), flax or chia seeds, plain yogurt, baking soda, baking powder, vanilla, oats, organic all-purpose flour"
+26,Red beans and rice,American,veg,"A dish made with red beans, rice, and various spices, often associated with Louisiana Creole cuisine"
+27,Vegetable Fried Rice,Chinese,veg,Rice stir fried with Vegetables.
+28,Vegetable Manchow Soup,Chinese,veg,A soup made with Vegetables and crispy noodles.
+29,Veal Marsala,Italian,non-veg,veal cutlets with a Marsala wine sauce
+30,Pizza Margherita Extra,Italian,veg,an upgraded version of the classic Margherita pizza with buffalo mozzarella and cherry tomatoes
+31,Chocolate chip cookies,American,veg,Cookies made with chocolate chips
+32,almond and amaranth ladoo,Dessert,veg,"popped amaranth seeds, jaggery, almonds (slivered, unpeeled)"
+33,Amriti with rabdi,Indian,veg,a dessert made by combining amriti with rabdi
+34,Manchurian,Chinese,veg,"A popular Indo-Chinese dish made with Vegetables, fried and then tossed in a spicy, tangy sauce."
+35,Dragon Chicken,Chinese,non-veg,A spicy and tangy chicken dish that is often served as an appetizer in Indian Chinese cuisine.
+36,Singapore Noodles,Chinese,veg,"A stir-fried noodle dish that is popular in Indian Chinese cuisine, made with thin rice noodles and a variety of Vegetables."
+37,Non-veg Biryani,Indian,non-veg,"Mixed rice dish, optional spices, optional Vegetables, meats or seafood. Can be served with plain yogurt."
+38,Crispy Chilli Baby Corn,Chinese,veg,A Veg dish made with crispy baby corn that is tossed in a spicy sauce.
+39,Mixed Fried Rice,Chinese,veg,A fried rice dish made with a variety of Vegetables.
+40,Vegetable Hot and Sour Soup,Chinese,veg,"A Veg version of Hot and Sour Soup, made with Vegetables and mushrooms."
+41,Butter chicken,Indian,non-veg,"dish, originating in the Indian subcontinent, of chicken in a mildly spiced tomato sauce. It is also known as murgh mahal"
+42,Peanut butter and jelly sandwich,American,veg,A sandwich made with peanut butter and jelly between two slices of bread
+43,Baked beans,American,non-veg,"Beans baked with molasses, bacon, and spices"
+44,Chaat,Indian,veg,"Street food. Usually containing potato patty fried in oil, topped with Veg yogurt, and other sauces and spices"
+45,Pesto,Italian,veg,"a sauce made with basil, garlic, pine nuts, and Parmesan cheese, often served with pasta"
+46,Mushroom Fried Rice,Chinese,veg,Rice stir fried with mushrooms and Vegetables.
+47,Spaghetti Carbonara,Italian,non-veg,"a classic Roman pasta dish made with eggs, cheese, and bacon"
+48,Chicken Chilli Dry,Chinese,non-veg,Boneless chicken pieces cooked in a spicy sauce.
+49,Lasagna,Italian,non-veg,"a layered pasta dish with meat, tomato sauce, and cheese"
+50,Panzanella,Italian,veg,"a bread salad with tomatoes, onions, and basil"
+51,christmas chocolate fudge cookies,Dessert,veg,"unsalted butter, brown sugar, chocolate, chocolate chips, eggs, flour, cocoa powder, baking powder"
+52,Margherita Pizza,Italian,veg,"a simple pizza made with tomato sauce, mozzarella cheese, and basil"
+53,Cheeseburger,American,non-veg,A hamburger topped with cheese
+54,Chicken Parmesan,Italian,non-veg,breaded chicken cutlets baked with tomato sauce and mozzarella cheese
+55,Bolognese Sauce,Italian,non-veg,a meaty tomato sauce traditionally served with tagliatelle pasta
+56,Hot dog,American,non-veg,A sausage served in a long bun
+57,Chana masala,Indian,veg,Chickpeas of the Chana type in tomato based sauce.
+58,Chapati,Indian,veg,"unleavened flatbread originating from the Indian subcontinent and staple in India, Nepal, Bangladesh, Pakistan, Sri Lanka, East Africa and the Caribbean."
+59,Chicken Tikka,Indian,non-veg,Chicken with spices served on a skewer
+60,Fried chicken,American,non-veg,Chicken coated in flour and deepfried
+61,Risotto alla Milanese,Italian,veg,a creamy rice dish with saffron and Parmesan cheese
+62,Potato salad,American,veg,"A salad made with boiled potatoes, mayonna"
+63,Non-veg Pizza,American,non-veg,"A dish made with a dough base topped with tomato sauce, cheese, and various toppings such as pepperoni, sausage and meat"
+64,Paneer Chilli Dry,Chinese,veg,Cubes of paneer cooked in a spicy sauce.
+65,Schezwan Chicken,Chinese,non-veg,Chicken cooked in Schezwan sauce.
+66,betel nut popsicle,Dessert,veg,"full cream milk, cream, mascarpone, sugar, paan (crushed), cookie crumble, dark chocolate (melted), caramel sauce"
+67,Saltimbocca,Italian,non-veg,veal cutlets stuffed with prosciutto and sage
+68,Cioppino,Italian,non-veg,"a seafood stew with tomatoes, wine, and garlic"
+69,banana and maple ice lollies,Dessert,veg,"Banana, Greek yogurt, heavy cream, pure maple syrup, coconut"
+70,Garlic Noodles,Chinese,veg,A simple noodle dish made with garlic and soy sauce.
+71,Manchurian,Chinese,non-veg,"A popular Indo-Chinese dish made with chicken , fried and then tossed in a spicy, tangy sauce."
+72,dark night,Beverage,veg,"whisky, honey, cinnamon, star anise, cloves, green apple"
+73,hot chocolate,Beverage,veg,"milk, chocolate, cocoa powder, powdered sugar, cinnamon, vanilla"
+74,Ravioli,Italian,non-veg,"pasta pockets filled with cheese, meat,served with various sauces"
+75,detox haldi tea,Beverage,veg,"haldi, ginger, black pepper, honey, water"
+76,holi special ice tea thandai,Beverage,veg,"ground white pepper (kali mirch), assam tea bags, almonds (badam) - coarsley crushed, poppy seeds (khus-khus), fennel seeds (saunf) (crushed coarsely), cardamom (elaichi) powder, ground sugar, saffron (kesar) strands"
+77,grilled lemon margarita,Beverage,veg,"vanilla infused tequila, vanilla liqueur, lemon juice, lemon, lemon"
+78,Braciola,Italian,non-veg,"thin slices of beef or pork stuffed with cheese, herbs, and breadcrumbs and then braised in tomato sauce"
+79,Singapore Noodles,Chinese,non-veg,"A stir-fried noodle dish that is popular in Indian Chinese cuisine, made with thin rice noodles and a variety of shrimp or chicken."
+80,baba budan no. 7,Beverage,veg,"rum, espresso, sugar syrup/gur (jaggery) syrup, green cardamom pod,"
+81,fruit infused tea,Beverage,veg,"chamomile tea bags, orange, berries, blueberries, ginger, mint leaves, boiling water"
+82,soya milk,Beverage,veg,"Soybean, hot water"
+83,spiced coffee,Beverage,veg,"Freshly ground coffee, cardamom powder, ginger, milk, sugar, cream, chocolate"
+84,filter coffee,Beverage,veg,"Coffee powder, water, milk, sugar"
+85,Fettuccine Alfredo,Italian,veg,pasta with a creamy cheese sauce
+86,Mixed Fried Rice,Chinese,non-veg,A fried rice dish made with a variety of chicken or shrimp.
+87,Chicken 65,Chinese,non-veg,Deepfried chicken pieces marinated in spicy sauce.
+88,BBQ ribs,American,non-veg,Pork ribs coated in BBQ sauce and slowcooked
+89,Chicken Fried Rice,Chinese,non-veg,Rice stir fried with chicken and Vegetables.
+90,Kadhi and Khichdi,Indian,veg,"Khichdi mixed with kadhi, found mostly in Gujarat. Also referred to as khichdi and kadhi, khichdi-kadhi, and kadhi-khichdi."
+91,Chicken Tikka masala,Indian,non-veg,Chicken marinated in a Yogurt tomato sauce. It is known to have a creamy texture.
+92,Chole bhature,Indian,veg,"Main course with Chick peas, assorted spices, wheat flour and bhatura yeast."
+93,Schezwan Fried Rice,Chinese,veg,Rice stir fried with Schezwan sauce and Vegetables.
+94,Daal baati churma,Indian,veg,a Rajasthani specialty
+95,Vitello Tonnato,Italian,non-veg,thinly sliced veal with a tuna and caper sauce
+96,Daal puri,Indian,veg,Stuffed dal in parathas
+97,Chicken Fried Wontons,Chinese,non-veg,A fried snack made with chicken wrapped in a thin dough.
+98,Chicken Hakka Noodles,Chinese,non-veg,"Noodles tossed with chicken, Vegetables, soy sauce, and vinegar."
+99,Dal makhani (kali dal),Indian,veg,a main course with lentils
+100,Dal fry with tadka,Indian,veg,Typical north Indian tadka
+101,Bruschetta,Italian,veg,"toasted bread topped with tomatoes, basil, and olive oil"
+102,Aloo gobi,Indian,veg,"Cauliflower with potatoes sautéed with garam masala, turmeric, sometimes kalonji and curry leaves."
+103,Dum aloo,Indian,veg,Potatoes cooked in curry
+104,Chicken Lollipop,Chinese,non-veg,Chicken wings that have been frenched and marinated in spicy sauce.
+105,Grilled cheese sandwich,American,veg,A sandwich made with melted cheese between two slices of bread
+106,chicken nimbu dhaniya shorba,Beverage,non-veg,"water, chicken (diced)), ginger garlic paste, coriander, lemon, cream, butter, turmeric powder, green chilli paste, cornflour, salt"
+107,Lauki ke kofte,Indian,veg,a way to serve bottle gourd
+108,Poha,Indian,veg,"Specialty from Madhya Pradesh. Common snack in central part of India. Flattended rice, potato, turmeric."
+109,Lauki ki subji,Indian,veg,a way to serve bottle gourd
+110,Osso Buco,Italian,non-veg,"braised veal shanks with tomatoes, carrots, and celery"
+111,Goli bajje,Indian,veg,a snack with Gram flour.
+112,Spaghetti aglio e olio,Italian,veg,"Spaghetti aglio e olio is a simple pasta dish made with garlic, olive oil, and chili flakes."
+113,Fried green tomatoes,American,veg,Tomatoes that have been breaded and fried
+114,Chicken Manchow Soup,Chinese,non-veg,A soup made with chicken and crispy noodles.
+115,Gajar ka halwa,Indian,veg,"Veg dish native to U.P. / Punjab. Carrot, Milk, Ghee, Cashew."
+116,Cannoli,Italian,veg,"Cannoli are Italian pastries that are typically filled with Vegened ricotta cheese, chocolate chips, and candied fruit."
+117,Gobhi matar,Indian,veg,Cauliflower in a tomato sauce
+118,Jalebi,Indian,veg,A North Indian twisted noodle like Veg dish dipped in sugary syrup
+119,Chicken Manchurian,Chinese,non-veg,A fried chicken ball served in a spicy sauce.
+120,Kachori,Indian,veg,Rajasthani / Marwari special
+121,Kadai paneer,Indian,veg,Paneer and green peppers in tomato gravy
+122,Key lime pie,American,veg,"A pie made with lime juice and condensed milk, often served with a graham cracker crust"
+123,Soup with a Veg and Sour Flavour,Thai,veg,"Tom Yum Goong, one of Thailand’s most demanded foods, is a fiery, sour soup stuffed with shrimp, Veggies, herbs, and spices. This wholesome soup combines the flavours of fresh Thai chillies, galangal, fresh lime juice and herbs. Mushrooms and coconut cream make up the creamy variant, giving it a more flavorful aroma."
+124,Kadhi pakoda,Indian,veg,Gram flour with yogurt with gramflour fried balls
+125,Karela bharta,Indian,veg,a bitter gourd or melon dish
+126,Kheer,Indian,veg,Rice cooked with milk and dry fruits
+127,Cacio e Pepe,Italian,veg,"Cacio e Pepe is a pasta dish made with spaghetti, Pecorino Romano cheese, and black pepper."
+128,Massaman Curry,Thai,veg,"It mixes Indian and Thai curries with classic Thai red curry pastes and dried raw Indian spices like nutmeg, cumin, cinnamon, bay leaves, and coriander. Massaman Curry may be quickly customised to suit individual needs and includes protein options for Vegs and non-Vegs."
+129,Mango Sticky Rice,Thai,veg,"Mango Sticky Rice is a great place to start if you want to explore the finest Thai food. It is a dessert rather than the main course but works well as a snack. Mango’s Vegness and sticky rice’s consistency blend well with a special Thai touch. With a single bite, you’ll realise why it’s one of the most demanded Thai dishes. This recipe truly pops with fresh mango, and the rice gives a little kick along with the coconut sauce."
+130,Khichdi,Indian,veg,Rice cooked with daal and Veggies and sauteed
+131,Minestrone,Italian,veg,"Minestrone is a Vegetable soup made with beans, pasta, and a variety of Vegetables."
+132,Thai Fried Rice,Thai,non-veg,"It’s a simple dish equally popular throughout Thailand as Biryani in India. In Thai, rice is referred to as Khao, while stir-fried food is called Pad. Rice, egg, garlic, onion, and protein sources are the main ingredients of Khao Pad. Additionally, The dish gets packed with the flavour of herbs and spices, topped with a fiery Thai fish sauce."
+133,Kofta,Indian,veg,"Gram flour balls fried with Vegetables. Gram flour, Veggies, rolled into balls with gram flour and fried in oil and then cooked with curry."
+134,Yellow Curry with Chicken,Thai,non-veg,"Unlike hot red and green curries, this curry contains less fiery paste. Thai yellow curry with chicken or Vegetables is suitable for children and people who prefer a milder flavour. Yellow curry paste contains a significant amount of turmeric and curry powder, lemongrass, galangal, coconut cream and coconut milk."
+135,Kulfi falooda,Indian,veg,dessert to ward off sweltering heat of summers
+136,Laapsi,Indian,veg,desert made up off broken wheat
+137,Schezwan Noodles,Chinese,veg,Noodles tossed with Schezwan sauce and Vegetables.
+138,Litti chokha,Indian,veg,a baked salted wheat flour cake filled with sattu (baked chickpea flour) and some special spices
+139,Red Curry,Thai,non-veg,"Gaeng Daeng is a flavorful red curry dish with meat, creamy coconut milk, red curry paste, and sliced kaffir lime leaves. Although it has a deep-red colour, it’s rather mildly spicy. If you prefer spicy food, you can ask for fresh chilli. Gaeng Daeng is customisable to suit both Vegs and non-Veg palates."
+140,Chicken Sauteed with Cashew Nuts,Thai,non-veg,"Essentially, this dish is stir-fried chicken with cashews. The combination of chicken, cashew nuts, Veggies, soy sauce, honey, and dried chilli makes it moderately spicy. So, children or people who can’t tolerate excessive spiciness will certainly enjoy this dish."
+141,Minestrone Soup,Italian,veg,a hearty Vegetable soup with pasta or rice
+142,Stir-Fried Tangy Veggies,Thai,non-veg,"The dish contains squash and eggs and fits the specification of the main course. Its tangy flavour is further enhanced by adding fried zucchini, oyster sauce, fish sauce, and soy sauce. For extra nutrition, shrimp may occasionally be added."
+143,Osso Buco,Italian,non-veg,"Osso Buco is a dish made with veal shanks, cooked in a white wine and tomato sauce."
+144,Frittata,Italian,veg,"Frittata is an egg dish similar to an omelette, often made with Vegetables and cheese."
+145,Veg Corn Soup,Chinese,veg,A soup made with Veg corn and Vegetables.
+146,Garlic Chicken,Thai,non-veg,"This delicious fried chicken dish has a strong garlic flavour. It may be one of the most basic Thai recipes, but only after tasting it will you realise its actual potential. The ingredients include white peppercorns, cilantro, chicken legs, and a lot of garlic."
+147,Makhaan ka kheer,Indian,veg,"Veg, made up with makhaana, milk, sugar, cashew and other savor. Popular in Mithilanchal region of Bihar"
+148,Curry Dumplings on Banana Leaves,Thai,non-veg,"Pla denotes fish, and Hor Mok is the method used to prepare these curry dumplings over a banana leaf. A delectable Thai dish that has impacted its neighbours, including Cambodia, with its renowned Amok fish. Hor Mok Pla resembles coconut cream, curry paste, and kaffir lime-based steamed fish souffle more than other dishes."
+149,Hyderabadi biryani,Indian,non-veg,Biryani cooked in hyderabadi style
+150,"Makki di roti, sarson da saag",Indian,veg,"Creamed sarson mustard leaves, with heavily buttered roti made from corn flour. Punjabi winter favorite."
+151,Amatriciana,Italian,non-veg,"Amatriciana is a pasta dish made with tomato sauce, pancetta, and Pecorino Romano cheese."
+152,Roasted Fish,Thai,non-veg,"It is a dish prepared by roasting fish smeared with coarse salt and filled with lemongrass over hot coals. Although it seems dry on the outside, the recipe is surprisingly moist once you try a mouthful. Fresh noodles, fresh herbs, leaves, and a little unique sauce are typical side dishes."
+153,Mathura ke pede,Indian,veg,a sort of a confection
+154,Eggplant Parmesan,Italian,veg,fried eggplant slices baked with tomato sauce and mozzarella cheese
+155,Chicken Schezwan Noodles,Chinese,non-veg,"Noodles tossed with Schezwan sauce, chicken, and Vegetables."
+156,"Methi saag, chaulai saab",Indian,veg,Veggie leaves sauteed in oil and garlic with little masalas. Cooked mostly in central part of India.
+157,Millet Halwa,Indian,veg,Roasted Millet cooked in Jaggery
+158,Misi roti,Indian,veg,"Whole wheat & gram flour dough ground masalas, pan fried"
+159,Pollo alla Cacciatora,Italian,non-veg,"Pollo alla Cacciatora is a dish made with chicken, tomato sauce, and Vegetables, often served with polenta."
+160,Risotto ai Funghi,Italian,veg,"Risotto ai Funghi is a creamy rice dish made with mushrooms, Parmesan cheese, and white wine."
+161,Bruschetta,Italian,veg,"Bruschetta is a toasted bread dish typically topped with fresh tomatoes, garlic, and olive oil."
+162,Thai-Style Chicken Biryani,Thai,non-veg,"Known as Thailand’s version of Biryani, this dish is influenced by Malaysian cooking. The rice is cooked with meat, turmeric, and other spices, producing a fragrant, yellow meal. The key differentiator between this form of Biryani and others is the use of a blend of Indian and regional spices served with slices of cucumber and fried onions."
+163,Mixed Vegetable,Indian,veg,"mixed Vegetables, slow cooked with a tomato sauce added."
+164,Idiyappam,Indian,veg,Steamed rice noodles or vermicelli with Ground rice
+165,Chim Chum - Hotpot of Meat and Vegetables,Thai,non-veg,"Chim Chum is a popular street food of Thailand, Chim refers to dipping, while Chum refers to dripping something swiftly in broth.The broth is flavourful, made using stock, galangal, lemongrass, kaffir lime and basil. Once the broth is ready, Vegetables and meat (usually pork) are added one by one and allowed to cook for not more than a couple of minutes."
+166,Focaccia,Italian,veg,"a flatbread topped with olive oil, herbs, and sometimes cheese"
+167,Chicken Spring Rolls,Chinese,non-veg,A fried snack made with chicken and noodles wrapped in a thin dough.
+168,Chilli Baby Corn,Chinese,veg,Baby corn cooked in a spicy sauce.
+169,Moong dal ka halwa,Indian,veg,"a dish made with yellow lentils, milk, sugar, and nuts"
+170,Chilli Chicken,Chinese,non-veg,Boneless chicken pieces cooked with spicy sauce.
+171,Murgh musallam,Indian,non-veg,A non veg dish
+172,Mushroom do pyaza,Indian,veg,Mushrooms & Onions in a tomato masala sauce spiced with chilles
+173,Mushroom matar,Indian,veg,Mushrooms and Veg peas in a masala or chili sauce
+174,Naan,Indian,veg,Tandoor-baked soft flatbread made with refined wheat flour.
+175,Farfalle al Salmone,Italian,non-veg,"Farfalle al Salmone is a pasta dish made with smoked salmon, cream, and peas."
+176,Thai Style Grilled Pork and Sticky Rice,Thai,non-veg,"It is a simple combination dish of Thai-style grilled pork and sticky rice. The pork, poked with skewers, is very tasty, marinated first in coconut milk, coriander, pepper, garlic, fish sauce, lemongrass and palm sugar, and then grilled to perfection."
+177,Navrattan korma,Indian,veg,"Vegetables, Nuts, Paneer Cheese in a tomato cream sauce"
+178,Idli,Indian,veg,"Steamed cake of fermented rice and pulse flour. Rice, urad dal"
+179,Chilli Mushroom,Chinese,veg,Button mushrooms cooked in a spicy sauce.
+180,Chilli Paneer,Chinese,veg,Cubes of paneer Indian cottage cheese tossed in a spicy sauce.
+181,Palak paneer,Indian,veg,Palak paneer is a popular Veg dish from the Indian subcontinent that consists of fresh spinach leaves (palak) cooked with cubes of Paneer cheese in a rich and creamy tomato-based sauce.
+182,Paneer butter masala,Indian,veg,Paneer made with Indian Cheese. Paneer is substituted for meat in Veg dishes
+183,Thai Noodle Soup,Thai,non-veg,"Chicken soup is good for the soul” — and the Thai version does wonders for your taste buds too. Cooked with chicken and broccoli, and flavoured with fried garlic and coconut milk, this wholesome soup is sure to draw recipe requests at your next get-together."
+184,Caprese Salad,Italian,veg,"a simple salad made with fresh mozzarella, tomatoes, and basil"
+185,Tiramisu,Italian,veg,"a dessert made with ladyfingers, coffee, and mascarpone cheese"
+186,strawberry & pistachio breton tart,Dessert,veg,"plain flour, baking powder, sea salt, unsalted butter, egg yoks, castor sugar, double cream, yolk, sugar, gelatine, butter, pistachio paste, strawberry"
+187,Polenta,Italian,veg,a cornmealbased dish that can be served as a side or as a base for other dishes
+188,Paneer tikka masala,Indian,veg,Veg alternative to chicken tikka masala
+189,Pani puri,Indian,veg,a typical Indian tadka
+190,Papad,Indian,veg,"A crispy add on to Lunch and Dinner, for adding a spicy and crunchier taste to food."
+191,Gnocchi,Italian,veg,small potato dumplings served with various sauces
+192,Insalata Caprese,Italian,veg,"Insalata Caprese is a simple salad made with fresh mozzarella cheese, ripe tomatoes, and fresh basil leaves."
+193,Paratha,Indian,veg,"flatbread native to the Indian subcontinent, prevalent throughout the modern-day nations of India, Sri Lanka, Pakistan, Nepal, Bangladesh, Maldives, and Myanmar, where wheat is the traditional staple"
+194,Panna Cotta,Italian,veg,"Panna Cotta is a creamy dessert made with milk, cream, sugar, and gelatin, often served with fresh fruit."
+195,Bistecca alla Fiorentina,Italian,non-veg,"Bistecca alla Fiorentina is a T-bone steak that is grilled and seasoned with salt, pepper, and olive oil."
+196,Pindi chana,Indian,veg,a chickpea dish
+197,Gnocchi alla Sorrentina,Italian,veg,"Gnocchi alla Sorrentina is a dish made with potato dumplings, tomato sauce, and mozzarella cheese."
+198,Cacio e Pepe,Italian,veg,spaghetti with cheese and black pepper
+199,lemon poppy seed cake,Dessert,veg,"plain flour, baking powder, salt, castor sugar, baking soda, eggs, butter, vanilla essence, lemon juice, poppy seed, lemon peel, to serve:, lemon syrup, whip cream, fresh berry"
+200,chocolate kaju katli,Dessert,veg,"cashew nuts, sugar, water, milk chocolate or dark chocolate"
+201,Arancini,Italian,non-veg,"Arancini are stuffed rice balls that are typically filled with ragù (meat sauce), peas, and mozzarella cheese, then coated in breadcrumbs and fried."
+202,pista chocolate & mandarin,Dessert,veg,"Pistachios, milk, sugar, broken rice, green cardamom, white chocolate, milk, egg yolks, whipped cream, vanilla pod, mandarin, sugar, water"
+203,banana and chia tea cake,Dessert,veg,"Banana, Castor Sugar, Flour, Oil, Milk, Eggs, Baking Soda, Flax Seeds, Almond Flakes, Chia Seeds"
+204,chocolate and almond rum ball,Dessert,veg,"Chocolate sponge eggless, dark chocolate, single cream, almonds, castor sugar, instant coffee powder, dark rum"
+205,lemon sushi cake,Dessert,veg,"Vanilla pre mix, gel, oil, water, egg yolks, lemon juice, sugar, butter, white chocolate, cooking cream, milk"
+206,chocolate doughnut,Dessert,veg,"Sugar, egg yolks, egg, butter, yeast, milk"
+207,spiced almond banana jaggery cake,Dessert,veg,"Butter, cinnamon molasses powder, nutmeg (powdered), almonds, sugar, eggs, orange peel, banana, flour, baking soda, baking powder, salt, buttermilk, powdered cinnamon"
+208,fennel scented sweet banana fritters,Dessert,veg,"Wheat flour, banana, jaggery, milk or water, ghee or oil"
+209,camel milk cake tart,Dessert,veg,"Camel milk, sugar, vinegar, butter, brown sugar, maida, eggs"
+210,quinoa coconut crumble custard,Dessert,veg,"Knoia (cooked), oats, cinnamon powder, salt, brown sugar or jaggery, nuts, coconut nuts, eggs, kinoia, coconut milk, maple syrup, vanilla extract, cinnamon powder, salt, honey"
+211,Indian omelette,Indian,non-veg,Egg omelette or Veg omelette
+212,Rajma chaval,Indian,veg,a bean curry with rice
+213,berry parfait hazelnut white chocolate sable,Dessert,veg,"for berry parfait:, egg yolk, caster sugar, berry puree, cream cheese, double cream, for hazelnut streusel:, ground hazelnut, flour, caster sugar, butter, for hazelnut white chocolate pressed sable:, hazelnut streusel, cocoa butter, puffed rice, clarified butter, melted white chocolate, for flexy berry:, raspberry puree, sugar, liquid glucose, pectin"
+214,Rajma,Indian,veg,Main. Kidney beans & assorted spices.
+215,Kanji,Indian,veg,a rice porridge
+216,duo of chocolate and strawberry,Dessert,veg,"dark chocolate, white chocolate, strawberries"
+217,Keerai masiyal,Indian,veg,Ground green leaves used as a side dish for rice or mixed with rice.
+218,Keerai poriyal,Indian,veg,Green leaves mixed with daal and coconut with little oil
+219,mother christmas cake,Dessert,veg,"tart apples (2 large), sugar, apple juice, eggs, vegetable oil, vanilla extracts, all-purpose flour, apple pie spice (cinnamon), salt, pecans, candied red cherries (halved), candied green cherried (halved), candied pineapple (diced), cashews (optional)"
+220,matcha tea macarons,Dessert,veg,"egg whites, breakfast sugar, icing sugar, almond powder, matcha powder, heavy cream, white chocolate"
+221,Keerai sadam (Tamil Nadu),Indian,veg,Rice and green leaves
+222,chocolate fudge cookies,Dessert,veg,"dark chocolate coverture, butter, sugar, eggs, flour, baking powder, salt, cocoa powder, vanilla essence"
+223,Gka Prow a.k.a Basil Chicken,Thai,non-veg,"This heavenly one-plate dish is made in a piping hot wok loaded with lots of holy basil leaves, large fresh chilli, minced chicken, soy sauce, oyster sauce, black pepper, chopped garlic and palm sugar. Serve piping hot with steamed rice."
+224,eggless vanilla cake,Dessert,veg,"maida, baking powder, castor sugar, butter, milk, vanilla essence, vinegar"
+225,sweet potato pie,Dessert,veg,"yams (red skinned), condensed milk, sugar, egg , cinnamon , marshmallows ,"
+226,kolhapuri akkha masoor Dal,Indian,veg,whole Red lentil cooked in onion gravy with Massala
+227,Koottu,Indian,veg,"Vegetable, daal or lentil mixture boiled in water"
+228,chocolate chip cheesecake,Dessert,veg,"butter biscuits (broken into pieces), butter (softened), cream cheese (softened), sugar, egg, rose essence or vanilla essence, chocolate chips"
+229,chocolate lava cake,Dessert,veg,"dark chocolate, butter, icing sugar, egg yolks + whole eggs, flour"
+230,eggless coffee cupcakes,Dessert,veg,"maida/ flour, baking powder, sugar, cocoa powder, vanilla essence, butter (softened, salted. in case you are using unsalted butter, add 1/4 tsp salt), milk (to make the batter smooth. adjust the milk quantity according to your batter's smoothness), coffee powder + 1 tsp water, to make a paste (you can increase or decrease according to your coffee tolerance)"
+231,Orecchiette with Broccoli Rabe,Italian,veg,pasta with sautÃ©ed broccoli rabe and garlic
+232,apple and walnut cake,Dessert,veg,"Apple, Eggs, Walnuts, Sugar, Walnuts, Oil, Flour, Baking Powder, Cinnamon Powder"
+233,Kori rotti,Indian,veg,It’s a rotti
+234,cinnamon star cookies,Dessert,veg,"Butter, Castor Sugar, Christmas Mix Spicy, Cinnamon Powder, Honey, Glucose, Cream, Poultry Flour, Baking Soda, Bread Flour"
+235,Koshambri,Indian,veg,A cucumber salad dish popular in Karnataka. Prepared during festivals.
+236,plum cake,Dessert,veg,"oven temp: 150 c-300 f, butter, sugar, eggs, almonds, vanilla essence, mixed fruits (sultanas, raisins, candied peels and cherries), refined flour,"
+237,double chocolate easter cookies,Dessert,veg,"Butter, Brown Sugar, Castor Sugar, Vanilla Essence, Dark Chocolate, Refined Flour, Cocoa Powder, Baking Soda, Salt, Milk, Cadbury Gems"
+238,Ramatori subji,Indian,veg,a spicy side dish made with any two Vegetables i.e. potatoes and cabbage
+239,homemade gulab jamun,Dessert,veg,"sugar, water, milk, cardamom seeds, saffron, cardamom powder, khoya, baking soda, maida, milk"
+240,Pasta e Fagioli,Italian,veg,"Pasta e Fagioli is a hearty soup made with pasta, beans, Vegetables, and sometimes meat."
+241,Hot Yellow Curry with Vegetables,Thai,veg,"This is the stuff dreams are made of. Impress your guests no end with this ambrosial Thai yellow curry, cooked with coconut and Vegetables. Spicy, easy and nothing short of spectacular"
+242,Samosa,Indian,veg,"Normally served as an entree or appetiser. Potatoes, onions, peas, coriander, and lentils, may be served with a mint or tamarind sauce"
+243,Triple Schezwan Rice,Chinese,non-veg,"Rice stirfried with Schezwan sauce, Vegetables, and chicken."
+244,jalebi with fennel yogurt pudding,Dessert,veg,"all purpose flour, yogurt, oil, sugar, water, saffron, green cardamom, yogurt (strained), milk (warm), sugar, nutmeg, cardamom powder"
+245,Arancini,Italian,non-veg,"fried rice balls stuffed with cheese, meat"
+246,christmas dry fruit cake,Dessert,veg,"butter (at room temperature), dark brown sugar, eggs, flour, salt, all spice powder, cinnamon, nutmeg, currants; golden raisins; dark raisins (each), soft dried figs, dates (pitted), prunes (stoned dried), apricots (dried), almonds (chopped), brandy, instant espresso (mixed with 1 tbsp water)"
+247,Kothamali sadam,Indian,veg,Coriander rice
+248,Red beans and rice,American,non-veg,"A dish made with red beans, rice, and various spices, often associated with Louisiana Creole cuisine with chicken and meat added"
+249,Gobi 65,Chinese,veg,Deepfried cauliflower florets marinated in spicy sauce.
+250,Sattu ki roti,Indian,veg,a dish from Bihar
+251,lemon poppy seed cake,Dessert,veg,"Flour, Baking Powder, Salt, Castor Sugar, Baking Soda, Eggs, Butter, Vanilla Essence, Lemon Juice, Poppy, Lemon Peel, Lemon Syrup, Wiped Cream, Fresh Berry"
+252,Veg Fried Wontons,Chinese,veg,A fried snack made with Vegetables wrapped in a thin dough.
+253,double chocolate easter cookies,Dessert,veg,"Butter, Brown Sugar, Castor Sugar, Vanilla Essence, Dark Chocolate, Refined Flour, Cocoa Powder, Baking Soda, Salt, Milk, Cadbury Gems"
+254,Masala Dosa,Indian,veg,Dosa with masala and potato.
+255,Shahi paneer,Indian,veg,"A popular Indian, as well as Punjabi and Nepalese dish, made with paneer in a thick cream and tomato gravy and spices"
+256,apple kheer,Dessert,veg,"apples, basmati rice, nuscovado sugar (you can also use normal sugar), cashew nuts and almonds, cassia bark or cinnamon stick, red grapes"
+257,ragi oats ladoo (laddu),Dessert,veg,"ragi flour, oats flour, dates (ripe), milk, honey, ghee, green cardamom powder, white sesame seeds, coconut powder, cashew nuts"
+258,Singhada halwa,Indian,veg,Lotus fruit dried and powdered to make this fasting Veg meat
+259,ragi coconut ladoo (laddu),Dessert,veg,"finger millet flour (ragi), jaggery, peanuts, coconut, salt"
+260,Veg pethas / kesar petha / pista petha,Indian,veg,A ravioli like dessert stuffed with a choice of fillings and equally popular in various parts of India and Pakistan
+261,Vegetable jalfrezi,Indian,veg,Meat and spices fried in a pan. Can be Veg as well.
+262,Tandoori Chicken,Indian,non-veg,Tandoori chicken as a dish originated in the Punjab before the independence of India and Pakistan.
+263,Tamatar/Tomato Chaat,Indian,veg,Tamatar Chaat is a Indian street food which is most popular in north India specially in Varanasi.
+264,Cannoli,Italian,veg,a dessert pastry filled with Veg ricotta cheese
+265,Chocolate chip cookies,American,veg,Cookies made with chocolate chips
+266,Cheeseburger,American,non-veg,A hamburger topped with cheese
+267,red velvet banana pudding,Dessert,veg,"one can of sweetened condensed milk, ice cold water, instant vanilla pudding mix, cream cheese (softened and cut into 8 pieces), heavy cream, one 9 x 13 inch layer of red velvet cakcake, ripe bananas, mini chocolate chips, sugar, cocoa, cake flour, baking soda, salt, butter (room temp cut into 1 inch pieces), eggs, milk, sour cream, cider vinegar, vanilla extract, red food coloring, all-purpose flour, milk, unsalted butter (room temperature), sugar, vanilla extract"
+268,baked wild berry cheesecake,Dessert,veg,"butter, digestive biscuits, berries, cream cheese, castor sugar, vanilla extract, egg (lightly beaten), icing sugar"
+269,spiced orange valencia cake,Dessert,veg,"egg whites, egg white powder, sugar, almond powder, hazelnut powder, sugar, hazelnut (toasted)"
+270,Saltimbocca alla Sorrentina,Italian,non-veg,"Saltimbocca alla Sorrentina is a dish made with veal cutlets, prosciutto, and mozzarella cheese, cooked in a tomato sauce."
+271,Crab cakes,American,non-veg,Cakes made with crab meat and spices
+272,chocolate marquise,Dessert,veg,"dark chocolate (melted), castor sugar, egg yolk, egg, cocoa powder, coffee, cream, berries, dark chocolate, fresh cream"
+273,Tiramisu,Italian,veg,"Tiramisu is a popular Italian dessert made with ladyfingers, mascarpone cheese, espresso, and cocoa powder."
+274,Meatloaf,American,non-veg,"A dish made with ground beef and other ingredients, baked in a loaf shape"
+275,Spaghetti alle Vongole,Italian,non-veg,"Spaghetti alle Vongole is a popular pasta dish made with clams, garlic, white wine, and chili flakes."
+276,Nandu omelette,Indian,non-veg,an omelette with pieces of crab and spices
+277,microwave chocolate cake,Dessert,veg,"Flour, castor or powdered sugar, oil, butter or margarine, cocoa powder, water, vanilla essence, baking soda, baking powder, salt, egg"
+278,white chocolate and lemon pastry,Dessert,veg,"White chocolate, fresh cream, VIP cream, vanilla bean, vanilla extract, cream cheese, gelatin, lemon, egg yolks, butter, castor sugar"
+279,Pachadi,Indian,veg,"Side dish made with yoghurt, coconut, ginger and curry leaves and seasoned with mustard."
+280,Pulled pork sandwich,American,non-veg,A sandwich made with slowcooked pulled pork and BBQ sauce
+281,Parotta,Indian,veg,a layered kerala parotta made with maida and dalda.
+282,Paruppu sadam,Indian,veg,Daal rice
+283,Gobi Manchurian,Chinese,veg,Cauliflower florets fried and served in a spicy sauce.
+284,Payasam,Indian,veg,"Rice dessert. Rice, milk."
+285,Pongal,Indian,veg,Pulao
+286,Arancini,Italian,veg,fried rice balls stuffed with cheeseVegetables
+287,Pasta e Fagioli,Italian,veg,a pasta and bean soup
+288,Ravioli,Italian,veg,"pasta pockets filled with cheese, Vegetables, served with various sauces"
+289,Tandoori Fish Tikka,Indian,non-veg,Fish marinated in lime and ginger and cooked over an open fire.
+290,Aval kesari,Indian,veg,roasted flat rice flour cooked with sugar and dry fruits.
+291,Avial,Indian,veg,"Coconut paste, curd mixed with Vegetables and some spices."
+292,Baida roti,Indian,non-veg,fried minced chicken stuffed in Egg roll
+293,Halwa,Indian,veg,Maida or Sugarcane fritters which are known as Halwa in South India India and
+294,Bhajji,Indian,veg,Vegetable or onion fritters which are known as Pakodas in North India and Pakistani cuisine
+295,Biryani,Indian,veg,Spicy rice dish with Vegetables.
+296,Bonda,Indian,veg,"Snack. Potatoes, gram flour."
+297,Chettinadu Chicken,Indian,non-veg,Dish made chicken and spices
+298,Hakka Noodles,Chinese,veg,"Noodles tossed with Vegetables, soy sauce, and vinegar."
+299,Chicken 65,Indian,non-veg,"Popular deep fried chicken preparation. Chicken, onion, ginger"
+300,Poriyal,Indian,veg,"Side dish for rice prepared from one or more Vegetables. Oil stirred, with daal half boiled and coconut / mustard seeds."
+301,"Puli sadam, Puliogre, Puliohara",Indian,veg,Tamarind rice
+302,Hot and Sour Soup,Chinese,veg,A soup made with Vegetables and a spicy broth.
+303,Rasam,Indian,veg,"A spicy and sour soup usually made with tamarind, tomatoes, pepper and other south Indian spices. Usually eaten with rice."
+304,Currivepillai sadam (Tamil Nadu),Indian,veg,Curry leaves and rice
+305,Veg Hakka Noodles,Chinese,veg,"Noodles tossed with Vegetables, soy sauce, and vinegar."
+306,Pecan pie,American,veg,"A pie made with pecans, corn syrup, and sugar"
+307,Dosa,Indian,veg,"Pancake/Hopper. Ground rice, urad dal"
+308,Double ka meetha,Indian,veg,Bread crumbs fried in ghee and dipped in milk and sugar syrup
+309,Banana pudding,American,veg,"A dessert made with bananas, vanilla pudding, and vanilla wafers"
